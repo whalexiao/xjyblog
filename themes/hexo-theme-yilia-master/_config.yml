@@ -3,6 +3,8 @@
 menu:
   主页: /
   随笔: /tags/随笔/
+  音乐: /tags/Music/
+  总结: /tags/总结/
 
 # SubNav
 subnav:
@@ -68,7 +70,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: 
 
 #是否开启分享
 share_jia: true

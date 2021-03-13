@@ -7,13 +7,13 @@ title: 小鲸鱼的博客
 subtitle: 他们说快写一段代码雅俗共赏
 description: 视界之外,想象之中
 keywords:
-author: 肖劲宇
+author: whalexiao
 language: zh-CN
 timezone: Asia/Shanghai
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-# url: https://xjywhu.github.io/
-url: http://www.whalexiao.com/
+url: https://whalexiao.github.io/
+# url: http://www.whalexiao.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -93,14 +93,14 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-next-7.7.0
+# theme: hexo-theme-next-7.7.0
 # theme: black-blue-master
-# theme: hexo-theme-yilia-master
+theme: hexo-theme-yilia-master
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:xjywhu/xjywhu.github.io.git
+  repo: git@github.com:whalexiao/whalexiao.github.io.git
   branch: master
   #
 creative_commons:
